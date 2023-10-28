@@ -1,0 +1,17 @@
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/FruitAPI
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/appsettings.json
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/FruitAPI.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/FruitAPI.deps.json
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/FruitAPI.runtimeconfig.json
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/FruitAPI.pdb
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Annotations.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vm/dev/microsoft-applied-skills/FruitAPI/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
